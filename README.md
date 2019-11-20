@@ -4,13 +4,13 @@ This repository contains python program files constructed by myself to display m
 ------
 sms.py 
 ------
-This program is a sms simulation program using a class called SMSmessage
-This class receives three variables namely:
-    1. has_been_read - a bool for whether the user read a sms or not.
-    2. message_text - for the receiving of a text message sent by the user.
-    3. from_number - for the receiving of the number from which the text message comes.
-The class holds various functions that return results based on user input. In short,
-the program can send, receive, read, get, mark and delete sms's from a number.
+This program is a sms simulation program using a class called SMSmessage<br/>
+This class receives three variables namely:</br>
+    1. has_been_read - a bool for whether the user read a sms or not.<br/>
+    2. message_text - for the receiving of a text message sent by the user.<br/>
+    3. from_number - for the receiving of the number from which the text message comes.<br/>
+The class holds various functions that return results based on user input. In short,<br/>
+the program can send, receive, read, get, mark and delete sms's from a number.<br/>
 
 ----------
 myclass.py
