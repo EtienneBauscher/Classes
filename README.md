@@ -6,9 +6,9 @@ sms.py
 ------
 This program is a sms simulation program using a class called SMSmessage<br/>
 This class receives three variables namely:</br>
-    &nbsp;&nbsp;&nbsp;&nbsp;1. has_been_read - a bool for whether the user read a sms or not.<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;2. message_text - for the receiving of a text message sent by the user.<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;3. from_number - for the receiving of the number from which the text message comes.<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;1. <b>has_been_read</b> - a bool for whether the user read a sms or not.<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;2. <b>message_text</b> - for the receiving of a text message sent by the user.<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;3. <b>from_number</b> - for the receiving of the number from which the text message comes.<br/>
     
 The class holds various functions that return results based on user input. In short,<br/>
 the program can send, receive, read, get, mark and delete sms's from a number.<br/>
